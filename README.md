@@ -4,7 +4,7 @@ A small, read-only agent demo for an educational academy. It answers Persian-lan
 
 The central idea is simple: **the model can choose a lookup, but the financial calculations belong in ordinary Python.** The system prompt asks it to use tools; model responses still need verification against the source data.
 
-![Academy AI Assistant dashboard](assets/dashboard-preview.png)
+![Academy AI Assistant dashboard](assets/dashboard-preview.webp)
 
 ## What it does
 
@@ -111,7 +111,7 @@ The deterministic API and browser UI are covered by automated tests. The live LL
 app/                 FastAPI routes, agent setup, services, tools
 web/                 Browser dashboard (vanilla HTML, CSS, JS)
 data/students.json   Five fictional records
-assets/              Dashboard screenshot
+assets/              Dashboard screenshots (desktop and mobile)
 tests/              Unit and API tests
 .github/workflows/   CI tests
 ```

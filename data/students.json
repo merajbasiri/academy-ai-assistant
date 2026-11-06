@@ -1,0 +1,7 @@
+[
+  {"student_id": "ST001", "name": "سارا احمدی", "course": "Python", "tuition": 8000000, "enrollment_status": "active", "payments": [{"date": "2026-10-01", "amount": 2000000}, {"date": "2026-10-15", "amount": 1500000}]},
+  {"student_id": "ST002", "name": "علی رضایی", "course": "AI Fundamentals", "tuition": 6000000, "enrollment_status": "active", "payments": [{"date": "2026-10-02", "amount": 4000000}, {"date": "2026-10-20", "amount": 2000000}]},
+  {"student_id": "ST003", "name": "نیکا محمدی", "course": "Web Development", "tuition": 5000000, "enrollment_status": "active", "payments": [{"date": "2026-10-05", "amount": 5500000}]},
+  {"student_id": "ST004", "name": "امیر کریمی", "course": "Scratch", "tuition": 4000000, "enrollment_status": "pending", "payments": []},
+  {"student_id": "ST005", "name": "مریم حسینی", "course": "Python Advanced", "tuition": 3000000, "enrollment_status": "active", "payments": [{"date": "2026-10-12", "amount": 1000000}, {"date": "2026-10-26", "amount": 500000}]}
+]
